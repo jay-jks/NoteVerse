@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotesAppMVVM</string>
+    <string name="enter_note_here">Enter note here</string>
+    <string name="save">Add note</string>
+    <string name="delete_all">Delete All</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+</resources>
