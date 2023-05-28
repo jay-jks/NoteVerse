@@ -12,5 +12,20 @@ The NoteVerse App is designed to help users to create, update, read and delete n
 - Note Editing: Users can edit existing notes using Update Button.
 - Note Listing: The app provides a list view that displays all the saved notes. 
 - Note Deletion: Users can delete a single note or all notes in just one tap.
-- Follows MVVM architecture that facilitate the synchronization of data between the View and ViewModel.
-- Uses Room database which Provides an abstraction layer over SQLite.
+
+
+## Screenshots
+<br>
+
+<table>
+    <tr>
+        <td><img src = "/Screenshots/1.jpg" ></td>
+        <td><img src = "/Screenshots/2.jpg" ></td>
+        <td><img src = "/Screenshots/3.jpg" ></td>
+    </tr>
+    <tr>
+        <td><img src = "/Screenshots/4.jpg" ></td>
+        <td><img src = "/Screenshots/5.jpg" ></td>
+        <td><img src = "/Screenshots/6.jpg" ></td>
+    </tr>
+</table>  
