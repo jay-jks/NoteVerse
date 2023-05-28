@@ -35,4 +35,3 @@ The NoteVerse App is designed to help users to create, update, read and delete n
 </table>  
 
 <br>
-<hr>
