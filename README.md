@@ -5,7 +5,7 @@
 The NoteVerse App is designed to help users to create, update, read and delete notes efficiently. It follows the Model-View-ViewModel (MVVM) architecture pattern, which promotes separation of concerns and allows for better testability and maintainability of the codebase. Additionally, it utilizes the Room database library to provide a robust and efficient persistence layer for storing and retrieving note data.
 
 </div>
-<br>
+
 
 ## Features
 
